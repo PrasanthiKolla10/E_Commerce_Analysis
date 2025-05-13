@@ -1,0 +1,15 @@
+Problem: 
+large datasets with atleast 1,00,00+ rows in each dataset, if we import the data manually in sql it will easily take an hour or more. To utilize the time we are using python to dump .csv files.
+
+Used my_sql connector library is used. 
+
+Skills: 
+
+15 questions 
+basic, intermediate and advanced 
+
+How libraries are used in python, 
+sql 
+
+
+
